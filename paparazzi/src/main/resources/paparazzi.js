@@ -1,4 +1,4 @@
-window.runs = {};
+asdfwindow.runs = {};
 
 class Run {
   constructor(id, data) {

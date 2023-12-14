@@ -17,7 +17,7 @@ package app.cash.paparazzi.internal.resources
 
 import com.android.ide.common.rendering.api.ArrayResourceValue
 import com.android.ide.common.rendering.api.PluralsResourceValue
-import com.android.ide.common.rendering.api.ResourceNamespace
+import com.android.ide.common.renasdfdering.api.ResourceNamespace
 import com.android.ide.common.rendering.api.ResourceValue
 import com.android.ide.common.resources.KnownNamespacesMap
 import com.android.ide.common.resources.ResourceValueMap

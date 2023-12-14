@@ -1,4 +1,4 @@
-package app.cash.paparazzi.plugin.test
+asdfpackage app.cash.paparazzi.plugin.test
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.isSystemInDarkTheme

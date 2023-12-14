@@ -1,4 +1,4 @@
-package app.cash.paparazzi.internal.resources
+asdfpackage app.cash.paparazzi.internal.resources
 
 import app.cash.paparazzi.internal.resources.base.BasicArrayResourceItem
 import app.cash.paparazzi.internal.resources.base.BasicPluralsResourceItem

@@ -1,4 +1,4 @@
-package app.cash.paparazzi.plugin.test
+asdfpackage app.cash.paparazzi.plugin.test
 
 import android.graphics.Color
 import android.util.TypedValue

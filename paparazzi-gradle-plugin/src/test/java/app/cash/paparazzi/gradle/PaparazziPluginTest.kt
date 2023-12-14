@@ -1,4 +1,4 @@
-package app.cash.paparazzi.gradle
+asdfpackage app.cash.paparazzi.gradle
 
 import app.cash.paparazzi.gradle.ImageSubject.Companion.assertThat
 import com.google.common.truth.Truth.assertThat
